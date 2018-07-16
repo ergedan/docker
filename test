@@ -1,1 +1,1 @@
-From k8s.gcr.io/google-containers/heapster-amd64:v1.5.3
+From gcr.io/google-containers/heapster-amd64:v1.5.3
