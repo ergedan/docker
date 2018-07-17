@@ -10,7 +10,6 @@ From gcr.io/google-containers/etcd-amd64:3.2.18
 From gcr.io/google-containers/flannel-amd64:0.5.5
 From gcr.io/google-containers/kube-proxy-amd64:v1.11.0
 From gcr.io/google-containers/flannel-amd64:0.5.5
-From gcr.io/google-containers/kube-proxy-amd64:v1.11.0
 From gcr.io/google-containers/kubernetes-dashboard-amd64:v1.8.3
 From gcr.io/google-containers/heapster-influxdb-amd64:v1.3.3
 From gcr.io/google-containers/heapster-grafana-amd64:v4.4.3
