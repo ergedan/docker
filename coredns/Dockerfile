@@ -1,1 +1,1 @@
-From hub.docker.com/r/coredns/coredns:1.1.3
+From hub.docker.com/coredns/coredns:1.1.3
