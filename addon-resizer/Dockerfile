@@ -1,1 +1,1 @@
-From gcr.io/google-containers/addon-resizer:1.7
+From gcr.io/google-containers/addon-resizer:1.8.4
