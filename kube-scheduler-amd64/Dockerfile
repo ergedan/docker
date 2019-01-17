@@ -1,2 +1,2 @@
-From gcr.io/google-containers/kube-scheduler-amd64:v1.13.2
+From gcr.io/google-containers/kube-scheduler:v1.13.2
 
